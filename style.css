@@ -31,8 +31,3 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
-
-.away-button:hover {
-    background-color: #000000;
-    color: #ffffff;
-}
