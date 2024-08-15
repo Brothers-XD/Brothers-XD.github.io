@@ -20,7 +20,7 @@ body {
 }
 
 .away-button {
-    background-color: #d6af02;
+    background-color: #cf8c06;
     color: #ffffff;
     border: none;
     padding: 20px 40px;
@@ -33,6 +33,6 @@ body {
 }
 
 .away-button:hover {
-    background-color: #cf8c06;
+    background-color: #d6af02;
     color:#ffffff ;
 }
